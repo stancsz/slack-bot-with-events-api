@@ -1,0 +1,4 @@
+Flask~=1.1.4
+slackeventsapi~=2.2.1
+slack_sdk
+howdoi==2.0.15
